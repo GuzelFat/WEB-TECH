@@ -1,0 +1,19 @@
+{
+    "data": [
+      {
+        "name": "яблоки",
+        "weight": 1000,
+        "group": "фрукты",
+        "price": 150,
+        "store_number": 1
+      },
+      {
+        "name": "яблоки",
+        "weight": 1000,
+        "group": "фрукты",
+        "price": 150,
+        "store_number": 1
+      }
+    ],
+    "count": 700
+  }

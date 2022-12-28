@@ -18,3 +18,5 @@ INSERT INTO EMPLOYEE VALUES (0008, 'Lana', 'Sales');
 -- fetch 
 SELECT * FROM EMPLOYEE WHERE dept = 'Sales'
 AND empId < 0006 AND name LIKE '%M%'ORDER BY empId DESC LIMIT 2;
+
+/* выбраны сотрудники из dept 'Sales', с значением empId меньше 6, с выбором имени, где есть буква"М", из этого списка выбрать только  2 варианта. */
